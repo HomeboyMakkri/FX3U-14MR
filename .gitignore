@@ -1,0 +1,28 @@
+# Git
+.git/
+
+# Altium cache
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+
+# Generated files
+*.LOG
+*.log
+*.apr
+*.rep
+*.~*
+*.Zip
+*.zip
+*.drc
+*.html
+*.BomDoc
+
+# Backup
+*.bak
+*.OldSchDoc
+*.OldPcbDoc
+
+# Autosave
+*.AutoSave*
